@@ -16,8 +16,8 @@
         "classmap": [
             "src"
         ],
-        "psr-0": {
-            "Wisemood\\Num2Text": "src/"
+        "psr-4": {
+            "Wisemood\\Num2Text\\": "src/"
         }
     },
     "require": {}
